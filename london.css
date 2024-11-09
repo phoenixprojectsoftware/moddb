@@ -1,0 +1,23 @@
+.container {
+    padding: 0 15px;
+    background: url(https://media.moddb.com/images/mods/1/51/50129/profile/28dayslaterHeader2.1.png) no-repeat center top;
+}
+
+div.tooltip {
+    background-color: #000;
+    padding: 3px;
+}
+
+body {
+    background: url(https://media.moddb.com/images/mods/1/51/50129/profile/28dayslaterbackgroundmoddb.jpg);
+    background-color: #000;
+    background-attachment: fixed;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: auto, cover;
+    color: #000;
+}
+
+body {
+    line-height: 1.5;
+}
