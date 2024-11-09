@@ -1,0 +1,25 @@
+.container {
+    padding: 0 15px;
+    background: url(https://i.imgur.com/Rk0SGYY.png) no-repeat center top;
+}
+
+div.tooltip {
+    background-color: #000000;
+    padding: 3px;
+}
+
+body {
+    background: url(https://i.imgur.com/fauXeXS.png);
+    background-color: #000;
+    background-attachment: fixed;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: auto, cover;
+    color: #000;
+}
+
+a {
+    color: #000000;
+    outline: none;
+    text-decoration: underline;
+}
